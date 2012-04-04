@@ -9,7 +9,7 @@ This is the first iteration - please be kind! :)
 TODO:
 1. Make sure everything works cross platform (Mac/Win)
 2. Additional options and streamlinging of selection process/config/preferences/etc.
-3. Replace all the XUL Dialogs with a custom SWF for a single panel that replicates all the standard AIR Publish Settings dialog plus the existing functionality of AIR Pump.
+3. Replace all the XUL Dialogs with a custom SWF for a single panel that replicates all the standard AIR Publish Settings dialog plus the existing functionality of AIR Pump and additional planned features.
 4. Integrate custom adt.jar shim and other functionality from other related project: http://www.impossibilities.com/v4/2011/06/24/leverage-air-2-7-ipa-test-interpreter-target-mode-for-ios-in-flash-cs-5-5/ 
 5. Package up in a proper .mxp file for easier installation.
 6. Finish TODO list with other thoughts and ideas.
