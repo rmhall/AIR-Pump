@@ -6,6 +6,9 @@ So far development has focused on Mac version - need to go back through and make
 Read through the code itself for some hints to usage, and ways you might modify/tailor to your needs.
 This is the first iteration - please be kind! :)
 
+To install, place in your "Commands" folder with other .jsfl files. Restart Flash and now you should have a "AIR Pump" option in the commands drop down.
+Currently there is no error checking, and I haven't done a lot of testing with multiple .fla files open.
+
 TODO:
 1. Make sure everything works cross platform (Mac/Win)
 2. Additional options and streamlinging of selection process/config/preferences/etc.
