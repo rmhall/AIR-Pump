@@ -2,6 +2,10 @@
 AIR Pump is a JSFL command for Flash Professional IDE that allows for custom AIR adt.jar command line arguments and execution of adt.jar of any version of the AIR SDK to be leveraged directly from the Flash IDE. Thus providing access to AIR adt.jar commands, features and functionality normally only available from the command line and not from within the IDE itself.
 It is designed to be an aid to workflow and efficiency when working with Flash Professional and AIR, and to assist in automating repetitive, and error prone processes.
 
+So far development has focused on Mac version - need to go back through and make sure it all works on PC.
+Read through the code itself for some hints to usage, and ways you might modify/tailor to your needs.
+This is the first iteration - please be kind! :)
+
 TODO:
 1. Make sure everything works cross platform (Mac/Win)
 2. Additional options and streamlinging of selection process/config/preferences/etc.
