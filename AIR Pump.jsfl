@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8"?>
 /*
 *	AIR Pump by Robert M. Hall, II. April 4th, 2012
 *	Visit http://www.impossibilities.com/airpump/ for documentation, updates and examples.
