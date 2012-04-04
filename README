@@ -10,7 +10,7 @@ To install, place in your "Commands" folder with other .jsfl files. Restart Flas
 Currently there is no error checking, and I haven't done a lot of testing with multiple .fla files open.
 
 TODO:
-1. Make sure everything works cross platform (Mac/Win)
+1. Put in place code to make everything work properly across platforms - currently geared at Mac only (platformsdk option for iOS not really viable on Win yet)
 2. Additional options and streamlinging of selection process/config/preferences/etc.
 3. Replace all the XUL Dialogs with a custom SWF for a single panel that replicates all the standard AIR Publish Settings dialog plus the existing functionality of AIR Pump and additional planned features.
 4. Integrate custom adt.jar shim and other functionality from other related project: http://www.impossibilities.com/v4/2011/06/24/leverage-air-2-7-ipa-test-interpreter-target-mode-for-ios-in-flash-cs-5-5/ 
