@@ -6,6 +6,10 @@ So far development has focused on Mac version - need to go back through and make
 Read through the code itself for some hints to usage, and ways you might modify/tailor to your needs.
 This is the first iteration - please be kind! :)
 
+UPDATE 04.06.12:
+Added extra drop downs for AIR 3.3beta iOS simulator target (woot!)
+Added preliminary image mockup of the custom SWF Panel that will eventually contain all this functionality in one much easier to use dialog, with preferences, etc.
+
 To install, place in your "Commands" folder with other .jsfl files. Restart Flash and now you should have a "AIR Pump" option in the commands drop down.
 Currently there is no error checking, and I haven't done a lot of testing with multiple .fla files open.
 
