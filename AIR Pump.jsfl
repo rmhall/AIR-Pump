@@ -92,8 +92,11 @@ if(continueCompilation) {
 	dialogXML +=  '<menuitem label="Apple iOS IPA App Store Distro" value="ipa-app-store" />';
 	dialogXML +=  '<menuitem label="Apple iOS IPA Debug" value="ipa-debug" />';
 	dialogXML +=  '<menuitem label="Apple iOS IPA Test" value="ipa-test" />';
-	dialogXML +=  '<menuitem label="Apple iOS IPA Debug Interpreter" value="ipa-debug-interpreter" />';
 	dialogXML +=  '<menuitem label="Apple iOS IPA Test Interpreter" value="ipa-test-interpreter" />';
+	dialogXML +=  '<menuitem label="Apple iOS IPA Debug Interpreter" value="ipa-debug-interpreter" />';
+	// Added preliminary support for AIR 3.3beta iOS simulator target mode - woot!
+	dialogXML +=  '<menuitem label="Apple iOS IPA Test Interpreter Simulator" value="ipa-test-interpreter-simulator" />';
+	dialogXML +=  '<menuitem label="Apple iOS IPA Debug Interpreter Simulator" value="ipa-debug-interpreter-simulator" />';
 	dialogXML +=  '</menupop></menulist>';
 	dialogXML +=  '</dialog>';
 	// fl.trace(dialogXML);
